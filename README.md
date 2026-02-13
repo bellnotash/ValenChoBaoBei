@@ -1,3 +1,6 @@
+# DỰ ÁN
+Tôi design lại dựa vào source có sẵn và đã nâng cấp và thêm nhiều trải nghiệm hơn thay vì bản gốc bên dưới. Tôi làm vì mục đích cá nhân, ai thích thì có thể clone và chỉnh sửa nhé, mn nhớ ghi nguồn là được. Cảm ơn mn
+
 # Valentine's Day Interactive Website (CodeKage)
 
 A cute, interactive web page to ask someone to be your Valentine. Features playful button mechanics, heartwarming GIFs, and heart-shaped confetti.
